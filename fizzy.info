@@ -3,6 +3,7 @@ description = A responsive theme for Fuzion sites, using Bootstrap.
 core = 7.x
 base theme = bootstrap
 
+project = fizzy
 project status url = https://projects.fuzion.co.nz/release-history
 ; version = "7.x-1.0"
 
