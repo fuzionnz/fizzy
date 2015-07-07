@@ -370,8 +370,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url(/fonts/bootstrap/glyphicons-halflings-regular.eot?1433299957);
-  src: url(/fonts/bootstrap/glyphicons-halflings-regular.eot?&1433299957#iefix) format("embedded-opentype"), url(/fonts/bootstrap/glyphicons-halflings-regular.woff2?1433299957) format("woff2"), url(/fonts/bootstrap/glyphicons-halflings-regular.woff?1433299957) format("woff"), url(/fonts/bootstrap/glyphicons-halflings-regular.ttf?1433299957) format("truetype"), url(/fonts/bootstrap/glyphicons-halflings-regular.svg?1433299957#glyphicons_halflingsregular) format("svg");
+  src: url(/fonts/bootstrap/glyphicons-halflings-regular.eot?1435717625);
+  src: url(/fonts/bootstrap/glyphicons-halflings-regular.eot?&1435717625#iefix) format("embedded-opentype"), url(/fonts/bootstrap/glyphicons-halflings-regular.woff2?1435717625) format("woff2"), url(/fonts/bootstrap/glyphicons-halflings-regular.woff?1435717625) format("woff"), url(/fonts/bootstrap/glyphicons-halflings-regular.ttf?1435717625) format("truetype"), url(/fonts/bootstrap/glyphicons-halflings-regular.svg?1435717625#glyphicons_halflingsregular) format("svg");
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\0000322}}
 .glyphicon {
@@ -8539,18 +8539,18 @@ button.close {
     display: none !important;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\000033}}
 .nav > li > a {
   padding: 10px;
 }
 
 @media (min-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000313}}
   .navbar-default nav {
     margin: 0 -30px;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000318}}
 .navbar-default .navbar-nav {
   position: relative;
   min-height: 1px;
@@ -8558,19 +8558,19 @@ button.close {
   padding-right: 15px;
 }
 @media (min-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000318}}
   .navbar-default .navbar-nav {
     float: left;
     width: 100%;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000323}}
 .navbar-default .navbar-nav li a,
 .navbar-default .navbar-nav li a:focus,
 .navbar-default .navbar-nav li a:hover {
   color: white;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000332}}
 .navbar-default .navbar-nav li a.active-trail, .navbar-default .navbar-nav li a.active-trail:hover,
 .navbar-default .navbar-nav li a.active,
 .navbar-default .navbar-nav li a.active:hover, .navbar-default .navbar-nav li.open a.active-trail, .navbar-default .navbar-nav li.open a.active-trail:hover,
@@ -8578,7 +8578,7 @@ button.close {
 .navbar-default .navbar-nav li.open a.active:hover {
   color: gold;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000340}}
 .navbar-default .navbar-nav li.open > a,
 .navbar-default .navbar-nav li.open > a:hover,
 .navbar-default .navbar-nav li.open > a:focus, .navbar-default .navbar-nav li.active > a,
@@ -8586,46 +8586,46 @@ button.close {
 .navbar-default .navbar-nav li.active > a:focus {
   background-color: #f280d6;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000345}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000345}}
 .navbar-default .navbar-nav li.open:focus, .navbar-default .navbar-nav li.open:hover, .navbar-default .navbar-nav li.active:focus, .navbar-default .navbar-nav li.active:hover {
   background-color: #f280d6;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000354}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000354}}
 .navbar-default .navbar-nav li > .dropdown a .caret,
 .navbar-default .navbar-nav li > .dropdown a:hover .caret,
 .navbar-default .navbar-nav li > .dropdown a:focus .caret {
   border-top-color: white;
   border-bottom-color: white;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000360}}
 .navbar-default .navbar-nav li.menu-link-classes {
   display: none;
 }
 @media (min-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000363}}
   .navbar-default .navbar-nav li.menu-link-classes.desktop {
     display: list-item;
   }
 }
 @media (max-width: 767px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000368}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000368}}
   .navbar-default .navbar-nav li.menu-link-classes.mobile {
     display: list-item;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000374}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000374}}
 .navbar-default .navbar-nav .dropdown-menu {
   border-top: 2px solid #f280d6;
   margin-top: -2px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000378}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000378}}
 .navbar-default .navbar-nav .dropdown-menu li a:hover,
 .navbar-default .navbar-nav .dropdown-menu li a:focus {
   background-color: #f280d6;
   color: white;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000389}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000389}}
 .navbar-default .navbar-nav.secondary {
   position: absolute;
   top: 55px;
@@ -8634,12 +8634,12 @@ button.close {
   float: right;
   background-color: transparent;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000396}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000396}}
 .navbar-default .navbar-nav.secondary ul,
 .navbar-default .navbar-nav.secondary li {
   background-color: transparent;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000399}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\0000399}}
 .navbar-default .navbar-nav.secondary ul a,
 .navbar-default .navbar-nav.secondary ul a.active,
 .navbar-default .navbar-nav.secondary ul a:hover,
@@ -8652,21 +8652,21 @@ button.close {
   font-size: 10px;
   padding: 10px 5px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\00003108}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\00003108}}
 .navbar-default .navbar-nav.secondary ul a.last,
 .navbar-default .navbar-nav.secondary li a.last {
   padding-right: 0;
 }
 
 @media (max-width: 767px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\00003121}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\00003121}}
   .navbar-default .navbar-nav .open .dropdown-menu > li > a,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
     background-color: #b560a0;
     color: white;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\00003130}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\00003130}}
   .navbar-default .navbar-nav > .open > a,
   .navbar-default .navbar-nav > .open > a:hover,
   .navbar-default .navbar-nav > .open > a:focus {
@@ -8674,72 +8674,50 @@ button.close {
   }
 }
 @media (max-width: 767px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\00003143}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_navigation\.scss}line{font-family:\00003143}}
   .navbar a.mobile-hidden {
     display: none;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_frontpage\.scss}line{font-family:\000032}}
-section#block-block-15,
-section#block-block-17 {
-  position: relative;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-@media (min-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_frontpage\.scss}line{font-family:\000032}}
-  section#block-block-15,
-  section#block-block-17 {
-    float: left;
-    width: 50%;
-  }
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_frontpage\.scss}line{font-family:\000036}}
-section#block-block-16 {
-  display: none;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_breadcrumb\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_breadcrumb\.scss}line{font-family:\000033}}
 body.without-breadcrumb .main-container {
   padding-top: 30px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_breadcrumb\.scss}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_breadcrumb\.scss}line{font-family:\000039}}
 body.with-breadcrumb .main-container > div > aside {
   padding-top: 30px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_breadcrumb\.scss}line{font-family:\0000316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_breadcrumb\.scss}line{font-family:\0000316}}
 .breadcrumb {
   margin-bottom: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\000031}}
 .block-tabbed-slider {
   display: none;
   margin-bottom: 20px;
 }
 @media (min-width: 992px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\000031}}
   .block-tabbed-slider {
     display: block;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\000038}}
 .block-tabbed-slider .tabbedslider {
   position: relative;
   overflow: hidden;
   border: 3px solid #02718F;
   border-radius: 5px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000313}}
 .block-tabbed-slider .tabbedslider .slides {
   width: 568px;
   height: 140px;
   padding-right: 150px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000318}}
 .block-tabbed-slider .tabbedslider .slide {
   position: relative;
   width: 100%;
@@ -8758,35 +8736,35 @@ body.with-breadcrumb .main-container > div > aside {
  }
 */
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000335}}
 .block-tabbed-slider .tabbedslider .slide .field-name-field-image,
 .block-tabbed-slider .tabbedslider .slide .field-name-body {
   float: left;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000339}}
 .block-tabbed-slider .tabbedslider .slide .field-name-field-image {
   width: 35%;
   overflow: hidden;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000343}}
 .block-tabbed-slider .tabbedslider .slide .field-name-body {
   width: 65%;
   padding: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000347}}
 .block-tabbed-slider .tabbedslider .slide p {
   font-size: 12px;
   line-height: 15px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000351}}
 .block-tabbed-slider .tabbedslider .slide a {
   color: #F79021;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000355}}
 .block-tabbed-slider .tabbedslider .field {
   margin: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000358}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000358}}
 .block-tabbed-slider .tabbedslider .nav {
   overflow: hidden;
   position: absolute;
@@ -8797,31 +8775,31 @@ body.with-breadcrumb .main-container > div > aside {
   z-index: 10;
   background: #03a2cc;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000367}}
 .block-tabbed-slider .tabbedslider .nav a {
   display: block;
   color: #fff;
   padding: 2px 7px 2px 7px;
   font-weight: bold;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000373}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_tabbed_slider\.scss}line{font-family:\0000373}}
 .block-tabbed-slider .tabbedslider .nav a.activeSlide {
   background: #02718F;
 }
 
 @media (max-width: 480px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\000033}}
   .navbar-header a.logo {
     width: 100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\000035}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\000035}}
   .navbar-header a.logo img {
     width: 125px;
     height: 60px;
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\0000313}}
 .search-wrapper {
   position: relative;
   min-height: 1px;
@@ -8831,20 +8809,20 @@ body.with-breadcrumb .main-container > div > aside {
   margin-top: 20px;
 }
 @media (min-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\0000313}}
   .search-wrapper {
     float: left;
     width: 33.33333333%;
   }
 }
 @media (min-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\0000313}}
   .search-wrapper {
     float: right;
   }
 }
 @media (max-width: 767px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\0000313}}
   .search-wrapper {
     float: right;
     width: 80%;
@@ -8853,37 +8831,37 @@ body.with-breadcrumb .main-container > div > aside {
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\000031}}
 footer.footer-first {
   margin-top: 0;
   padding-top: 20px;
   font-size: 11px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\000038}}
 footer.footer-first #block-menu-menu-footer h2 {
   display: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000311}}
 footer.footer-first #block-menu-menu-footer ul.menu {
   text-align: center;
   font-size: 12px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000315}}
 footer.footer-first #block-menu-menu-footer li {
   display: inline;
   list-style: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000318}}
 footer.footer-first #block-menu-menu-footer li a {
   display: inline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000325}}
 footer.footer-second {
   background-color: #999;
   margin-top: 30px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000329}}
 footer.footer-second section {
   position: relative;
   min-height: 1px;
@@ -8892,58 +8870,58 @@ footer.footer-second section {
   padding: 10px;
 }
 @media (min-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000329}}
   footer.footer-second section {
     float: left;
     width: 33.33333333%;
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000335}}
 #block-block-65,
 #block-block-66 {
   padding: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000339}}
 #block-block-65 {
   background-color: #ccf;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000342}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000342}}
 #block-block-66 {
   background-color: #cfc;
 }
 
 @media (min-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000347}}
   .block.tablet-hidden {
     display: none;
   }
 }
 @media (max-width: 480px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\0000352}}
   .block.phone-hidden {
     display: none;
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\000033}}
 aside div.region-sidebar-second section.block {
   margin-bottom: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\000035}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\000035}}
 aside div.region-sidebar-second section.block img {
   width: 100%;
   max-width: 100%;
   height: auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000315}}
 #block-block-3 a:hover {
   text-decoration: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000318}}
 #block-block-3 span {
   display: block;
   text-align: center;
@@ -8951,62 +8929,62 @@ aside div.region-sidebar-second section.block img {
   font-weight: heavy;
   font-size: 18px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000324}}
 #block-block-3 span.helpline-number {
   color: white;
   background-color: #b560a0;
   padding: 2px 5px;
 }
 @media (min-width: 768px) and (max-width: 992px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000332}}
   #block-block-3 .helpline-text {
     font-size: 14px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000333}}
   #block-block-3 .helpline-wordnumber {
     font-size: 18px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000334}}
   #block-block-3 .helpline-number {
     font-size: 23px;
   }
 }
 @media (min-width: 992px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000337}}
   #block-block-3 .helpline-text {
     font-size: 20px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000338}}
   #block-block-3 .helpline-wordnumber {
     font-size: 25px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000339}}
   #block-block-3 .helpline-number {
     font-size: 32px;
   }
 }
 @media (min-width: 1200px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000342}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000342}}
   #block-block-3 .helpline-text {
     font-size: 24px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000343}}
   #block-block-3 .helpline-wordnumber {
     font-size: 30px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_sidebar\.scss}line{font-family:\0000344}}
   #block-block-3 .helpline-number {
     font-size: 32px;
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\000031}}
 footer.dev-footer {
   background-color: #999;
   margin-top: 50px;
   border: 2px dashed #666;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\000036}}
 footer.dev-footer section {
   position: relative;
   min-height: 1px;
@@ -9015,209 +8993,209 @@ footer.dev-footer section {
   padding: 10px;
 }
 @media (min-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\000036}}
   footer.dev-footer section {
     float: left;
     width: 33.33333333%;
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000312}}
 [class*="span"] {
   background: #EEF;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000313}}
 [class*="span"] [class*="span"] {
   background: #FEE;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000315}}
 #block-block-65,
 #block-block-66 {
   padding: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000319}}
 #block-block-65 {
   background-color: #ccf;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000322}}
 #block-block-66 {
   background-color: #cfc;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000325}}
 #block-block-67 {
   background-color: #fcc;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000328}}
 #block-block-68 {
   background-color: #ca9;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000331}}
 #block-block-69 {
   background-color: #9ac;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000334}}
 #block-block-70 {
   background-color: #9ca;
 }
 
 @media (min-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000339}}
   .block.tablet-hidden {
     display: none;
   }
 }
 @media (max-width: 480px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/_dev\.scss}line{font-family:\0000344}}
   .block.phone-hidden {
     display: none;
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000330}}
 body {
   background-color: #eaeaea;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000334}}
 header,
 header.navbar-default,
 div.main-container {
   background-color: white;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000340}}
 .navbar.container {
   margin-top: 0;
 }
 @media (min-width: 768px) and (max-width: 992px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000340}}
   .navbar.container {
     margin-top: 20px;
   }
 }
 @media (min-width: 768px) and (max-width: 992px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000340}}
   .navbar.container {
     max-width: 750px;
   }
 }
 @media (min-width: 992px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000340}}
   .navbar.container {
     max-width: 970px;
   }
 }
 @media (min-width: 1200px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000340}}
   .navbar.container {
     max-width: 1170px;
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000356}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000356}}
 .breadcrumb {
   padding: 8px 0;
   background-color: white;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000361}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000361}}
 .navbar-default {
   background-color: transparent;
   border-color: transparent;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000366}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000366}}
 ul.navbar-nav {
   background-color: #b560a0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000368}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000368}}
 ul.navbar-nav ul {
   background-color: #b560a0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000371}}
 ul.navbar-nav li.open {
   background-color: #f280d6;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000374}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000374}}
 ul.navbar-nav a {
   color: white;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000379}}
 .block h2.block-title {
   margin-top: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000383}}
 header.navbar {
   margin-bottom: 0;
   border-width: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000388}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000388}}
 .navbar-header {
   width: 100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000391}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000391}}
 .navbar-header a.navbar-brand {
   display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000396}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\0000396}}
 h1.page-header {
   margin-top: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003104}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003104}}
 .navbar-toggle {
   margin-right: 5px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003108}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003108}}
 h1, h2, h3, h4, h5, h6 {
   font-family: "Trebuchet MS", Arial, sans-serif;
   color: #006a91;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003113}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003113}}
 h1 {
   font-size: 24px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003116}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003116}}
 h2 {
   font-size: 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003119}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003119}}
 h3 {
   font-size: 18px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003122}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003122}}
 h4 {
   font-size: 16px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003125}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003125}}
 h5 {
   font-size: 14px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003128}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003128}}
 h6 {
   font-size: 12px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003135}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003135}}
 div.region-above-content section {
   position: relative;
   min-height: 1px;
@@ -9226,14 +9204,14 @@ div.region-above-content section {
   padding: 10px;
 }
 @media (min-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003135}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003135}}
   div.region-above-content section {
     float: left;
     width: 50%;
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003145}}
 div.region-below-content section {
   position: relative;
   min-height: 1px;
@@ -9242,17 +9220,21 @@ div.region-below-content section {
   padding: 10px;
 }
 @media (min-width: 768px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003145}}
   div.region-below-content section {
     float: left;
     width: 33.33333333%;
   }
 }
 @media (max-width: 480px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003145}}
   div.region-below-content section {
     display: none;
   }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/livingstreets\/livingstreets\.org\.nz\/sites\/all\/themes\/fizzy\/sass\/style\.scss}line{font-family:\00003153}}
+div.region-below-content section:nth-child(3n + 1) {
+  clear: both;
 }
 
 /*# sourceMappingURL=style.css.map */
