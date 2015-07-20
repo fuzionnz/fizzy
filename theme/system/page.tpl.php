@@ -86,15 +86,6 @@
       <a class="name navbar-brand" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>"><?php print $site_name; ?></a>
       <?php endif; ?>
 
-<?php /* http://drupal.stackexchange.com/questions/108033/adding-search-block-to-bootstrap-3-navbar */ ?>
-      <?php if (isset($page['searchbox'])) : ?>
-      <div class="search-wrapper">
-        <div class="search-box" id="search-box">
-          <?php print render($page['searchbox']); ?>
-        </div>
-      </div>
-      <?php endif; ?>
-
       <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
         <span class="sr-only">Toggle navigation</span>
@@ -102,7 +93,20 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
+      <button type="button" class="search-toggle" data-toggle="collapse" data-target=".search-wrapper">
+        <span class="sr-only">Toggle search</span>
+        <i class="icon glyphicon glyphicon-search"></i>
+      </button>
     </div>
+
+    <?php /* http://drupal.stackexchange.com/questions/108033/adding-search-block-to-bootstrap-3-navbar */ ?>
+    <?php if (isset($page['searchbox'])) : ?>
+      <div class="search-wrapper collapse in">
+        <div class="search-box" id="search-box">
+          <?php print render($page['searchbox']); ?>
+        </div>
+      </div>
+    <?php endif; ?>
 
     <?php if (!empty($primary_nav) || !empty($secondary_nav) || !empty($page['navigation'])): ?>
       <div class="navbar-collapse collapse">
