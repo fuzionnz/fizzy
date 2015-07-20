@@ -6,8 +6,8 @@
     a.logo {
       @include make-xs-column(3);
       img {
-        width: 125px;
-        height: 60px;
+        // width: 125px;
+        // height: 60px;
       }
     }
   }

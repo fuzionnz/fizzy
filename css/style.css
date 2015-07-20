@@ -7349,10 +7349,6 @@ body.with-breadcrumb .main-container > div > aside {
     padding-left: 15px;
     padding-right: 15px;
   }
-  .navbar-header a.logo img {
-    width: 125px;
-    height: 60px;
-  }
 }
 
 .search-wrapper {
