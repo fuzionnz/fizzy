@@ -147,4 +147,8 @@ div.region-below-content {
       display: none;
     }
   }
+
+  section:nth-child(3n + 1) {
+    clear: both;
+  }
 }

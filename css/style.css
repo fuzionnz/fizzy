@@ -6913,25 +6913,6 @@ button.close {
     display: none;
   }
 }
-section#block-block-15,
-section#block-block-17 {
-  position: relative;
-  min-height: 1px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-@media (min-width: 768px) {
-  section#block-block-15,
-  section#block-block-17 {
-    float: left;
-    width: 50%;
-  }
-}
-
-section#block-block-16 {
-  display: none;
-}
-
 body.without-breadcrumb .main-container {
   padding-top: 30px;
 }
@@ -7430,4 +7411,7 @@ div.region-below-content section {
   div.region-below-content section {
     display: none;
   }
+}
+div.region-below-content section:nth-child(3n + 1) {
+  clear: both;
 }
