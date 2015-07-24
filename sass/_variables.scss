@@ -10,3 +10,11 @@ $lightgrey: #eaeaea;
 $brand-mid: #f280d6;
 $brand-dark: shade($brand-mid, 25%);
 $brand-light: tint($brand-mid, 50%);
+
+$background-page: $lightgrey;
+$background-content: #fff;
+
+$tab-current: #fff;
+$tab-hover: $lightgrey;
+$tab-default: transparent;
+

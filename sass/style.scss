@@ -152,3 +152,14 @@ div.region-below-content {
     clear: both;
   }
 }
+
+// Per default tabs aren't coloured, but this makes it easy to set
+// their colours in _variables.scss
+.nav-tabs > li {
+  a {
+    background-color: $tab-default;
+    &:hover {
+      background-color: $tab-hover;
+    }
+  }
+}
