@@ -370,8 +370,13 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
+<<<<<<< HEAD
   src: url(/fonts/bootstrap/glyphicons-halflings-regular.eot?1433299957);
   src: url(/fonts/bootstrap/glyphicons-halflings-regular.eot?&1433299957#iefix) format("embedded-opentype"), url(/fonts/bootstrap/glyphicons-halflings-regular.woff2?1433299957) format("woff2"), url(/fonts/bootstrap/glyphicons-halflings-regular.woff?1433299957) format("woff"), url(/fonts/bootstrap/glyphicons-halflings-regular.ttf?1433299957) format("truetype"), url(/fonts/bootstrap/glyphicons-halflings-regular.svg?1433299957#glyphicons_halflingsregular) format("svg");
+=======
+  src: url(/fonts/bootstrap/glyphicons-halflings-regular.eot?1435717625);
+  src: url(/fonts/bootstrap/glyphicons-halflings-regular.eot?&1435717625#iefix) format("embedded-opentype"), url(/fonts/bootstrap/glyphicons-halflings-regular.woff2?1435717625) format("woff2"), url(/fonts/bootstrap/glyphicons-halflings-regular.woff?1435717625) format("woff"), url(/fonts/bootstrap/glyphicons-halflings-regular.ttf?1435717625) format("truetype"), url(/fonts/bootstrap/glyphicons-halflings-regular.svg?1435717625#glyphicons_halflingsregular) format("svg");
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\0000322}}
 .glyphicon {
@@ -1387,297 +1392,474 @@ th {
   content: "\e200";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003236}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-cd:before {
   content: "\e201";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003237}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-save-file:before {
   content: "\e202";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003238}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-open-file:before {
   content: "\e203";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003239}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-level-up:before {
   content: "\e204";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003240}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-copy:before {
   content: "\e205";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003241}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-paste:before {
   content: "\e206";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003250}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-alert:before {
   content: "\e209";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003251}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-equalizer:before {
   content: "\e210";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003252}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-king:before {
   content: "\e211";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003253}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-queen:before {
   content: "\e212";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003254}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-pawn:before {
   content: "\e213";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003255}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-bishop:before {
   content: "\e214";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003256}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-knight:before {
   content: "\e215";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003257}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-baby-formula:before {
   content: "\e216";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003258}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-tent:before {
   content: "\26fa";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003259}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-blackboard:before {
   content: "\e218";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003260}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-bed:before {
   content: "\e219";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003261}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-apple:before {
   content: "\f8ff";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003262}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-erase:before {
   content: "\e221";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003263}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-hourglass:before {
   content: "\231b";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003264}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-lamp:before {
   content: "\e223";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003265}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-duplicate:before {
   content: "\e224";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003266}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-piggy-bank:before {
   content: "\e225";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003267}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-scissors:before {
   content: "\e226";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003268}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-bitcoin:before {
   content: "\e227";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003269}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-yen:before {
   content: "\00a5";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003270}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-ruble:before {
   content: "\20bd";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003271}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-scale:before {
   content: "\e230";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003272}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-ice-lolly:before {
   content: "\e231";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003273}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-ice-lolly-tasted:before {
   content: "\e232";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003274}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-education:before {
   content: "\e233";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003275}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-option-horizontal:before {
   content: "\e234";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003276}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-option-vertical:before {
   content: "\e235";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003277}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-menu-hamburger:before {
   content: "\e236";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003278}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-modal-window:before {
   content: "\e237";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003279}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-oil:before {
   content: "\e238";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003280}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-grain:before {
   content: "\e239";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003281}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-sunglasses:before {
   content: "\e240";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003282}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-text-size:before {
   content: "\e241";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003283}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-text-color:before {
   content: "\e242";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003284}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-text-background:before {
   content: "\e243";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003285}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-object-align-top:before {
   content: "\e244";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003286}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-object-align-bottom:before {
   content: "\e245";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003287}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-object-align-horizontal:before {
   content: "\e246";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003288}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-object-align-left:before {
   content: "\e247";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003289}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-object-align-vertical:before {
   content: "\e248";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003290}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-object-align-right:before {
   content: "\e249";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003291}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-triangle-right:before {
   content: "\e250";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003292}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-triangle-left:before {
   content: "\e251";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003293}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-triangle-bottom:before {
   content: "\e252";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003294}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-triangle-top:before {
   content: "\e253";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003295}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-console:before {
   content: "\e254";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003296}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-superscript:before {
   content: "\e255";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003297}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-subscript:before {
   content: "\e256";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003298}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-menu-left:before {
   content: "\e257";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003299}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-menu-right:before {
   content: "\e258";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003300}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-menu-down:before {
   content: "\e259";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_glyphicons\.scss}line{font-family:\00003301}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .glyphicon-menu-up:before {
   content: "\e260";
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_scaffolding\.scss}line{font-family:\0000311}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -3521,7 +3703,10 @@ th {
   border-bottom-width: 2px;
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_tables\.scss}line{font-family:\00003114}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .table-striped > tbody > tr:nth-of-type(odd) {
   background-color: #f9f9f9;
 }
@@ -3847,7 +4032,10 @@ input[type="search"] {
   input[type="month"] {
     line-height: 34px;
   }
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_forms\.scss}line{font-family:\00003184}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
   input[type="date"].input-sm, .input-group-sm > input[type="date"].form-control,
   .input-group-sm > input[type="date"].input-group-addon,
   .input-group-sm > .input-group-btn > input[type="date"].btn, .input-group-sm input[type="date"],
@@ -3868,7 +4056,10 @@ input[type="search"] {
   input[type="month"] {
     line-height: 30px;
   }
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_forms\.scss}line{font-family:\00003189}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
   input[type="date"].input-lg, .input-group-lg > input[type="date"].form-control,
   .input-group-lg > input[type="date"].input-group-addon,
   .input-group-lg > .input-group-btn > input[type="date"].btn, .input-group-lg input[type="date"],
@@ -4015,7 +4206,10 @@ select[multiple].input-sm,
   height: auto;
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/mixins\/_forms\.scss}line{font-family:\0000371}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .form-group-sm .form-control {
   height: 30px;
   padding: 5px 10px;
@@ -4023,17 +4217,26 @@ select[multiple].input-sm,
   line-height: 1.5;
   border-radius: 3px;
 }
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/mixins\/_forms\.scss}line{font-family:\0000379}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .form-group-sm select.form-control {
   height: 30px;
   line-height: 30px;
 }
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/mixins\/_forms\.scss}line{font-family:\0000384}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .form-group-sm textarea.form-control,
 .form-group-sm select[multiple].form-control {
   height: auto;
 }
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_forms\.scss}line{font-family:\00003321}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .form-group-sm .form-control-static {
   height: 30px;
   padding: 5px 10px;
@@ -4041,7 +4244,10 @@ select[multiple].input-sm,
   line-height: 1.5;
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/mixins\/_forms\.scss}line{font-family:\0000371}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .input-lg, .input-group-lg > .form-control,
 .input-group-lg > .input-group-addon,
 .input-group-lg > .input-group-btn > .btn {
@@ -4071,7 +4277,10 @@ select[multiple].input-lg,
   height: auto;
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/mixins\/_forms\.scss}line{font-family:\0000371}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .form-group-lg .form-control {
   height: 46px;
   padding: 10px 16px;
@@ -4079,17 +4288,26 @@ select[multiple].input-lg,
   line-height: 1.3333333;
   border-radius: 6px;
 }
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/mixins\/_forms\.scss}line{font-family:\0000379}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .form-group-lg select.form-control {
   height: 46px;
   line-height: 46px;
 }
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/mixins\/_forms\.scss}line{font-family:\0000384}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .form-group-lg textarea.form-control,
 .form-group-lg select[multiple].form-control {
   height: auto;
 }
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_forms\.scss}line{font-family:\00003334}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .form-group-lg .form-control-static {
   height: 46px;
   padding: 10px 16px;
@@ -4705,7 +4923,10 @@ tbody.collapse.in {
   border-left: 4px solid transparent;
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_dropdowns\.scss}line{font-family:\0000319}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .dropup,
 .dropdown {
   position: relative;
@@ -4950,14 +5171,20 @@ tbody.collapse.in {
   border-radius: 0;
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_button-groups\.scss}line{font-family:\0000375}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .btn-group > .btn-group:first-child:not(:last-child) > .btn:last-child,
 .btn-group > .btn-group:first-child:not(:last-child) > .dropdown-toggle {
   border-bottom-right-radius: 0;
   border-top-right-radius: 0;
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_button-groups\.scss}line{font-family:\0000380}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .btn-group > .btn-group:last-child:not(:first-child) > .btn:first-child {
   border-bottom-left-radius: 0;
   border-top-left-radius: 0;
@@ -6701,24 +6928,36 @@ a.thumbnail.active {
   margin-top: 0;
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_media\.scss}line{font-family:\0000310}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .media,
 .media-body {
   zoom: 1;
   overflow: hidden;
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_media\.scss}line{font-family:\0000316}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .media-body {
   width: 10000px;
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_media\.scss}line{font-family:\0000320}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .media-object {
   display: block;
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_media\.scss}line{font-family:\0000324}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .media-right,
 .media > .pull-right {
   padding-left: 10px;
@@ -6997,7 +7236,10 @@ a.list-group-item-danger.active, a.list-group-item-danger.active:hover, a.list-g
   font-size: 16px;
   color: inherit;
 }
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/_panels\.scss}line{font-family:\0000339}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .panel-title > a,
 .panel-title > small,
 .panel-title > .small,
@@ -8241,18 +8483,32 @@ button.close {
 @-ms-viewport {
   width: device-width;
 }
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/mixins\/_responsive-visibility\.scss}line{font-family:\0000318}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .visible-xs {
   display: none !important;
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/mixins\/_responsive-visibility\.scss}line{font-family:\0000318}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 .visible-sm {
   display: none !important;
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/var\/lib\/gems\/1\.9\.1\/gems\/bootstrap-sass-3\.3\.3\/assets\/stylesheets\/bootstrap\/mixins\/_responsive-visibility\.scss}line{font-family:\0000318}}
 .visible-md {
+=======
+.visible-md {
+  display: none !important;
+}
+
+.visible-lg {
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
   display: none !important;
 }
 
@@ -8813,11 +9069,14 @@ body.with-breadcrumb .main-container > div > aside {
     padding-left: 15px;
     padding-right: 15px;
   }
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\000038}}
   .navbar-header a.logo img {
     width: 125px;
     height: 60px;
   }
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\0000316}}
@@ -8876,12 +9135,15 @@ button.search-toggle i.fa-search {
   }
 }
 
+<<<<<<< HEAD
 @media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_header\.scss}line{font-family:\0000356}}
 button.search-toggle {
   margin-right: 10px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/srv\/www\/fudev\/fizzy\.fudev\.co\.nz\/sites\/all\/themes\/fizzy\/sass\/_footer\.scss}line{font-family:\000031}}
+=======
+>>>>>>> fc87e90f8841bcf8c1beab39aab9f2a790dc5a5c
 footer.footer-first {
   margin-top: 0;
   padding-top: 20px;
