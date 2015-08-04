@@ -1,0 +1,24 @@
+// Default settings for theme.
+$bp-phone: 480px;
+$bp-phone-max: max-width 480px;
+$bp-tablet: 768px;
+$bp-tablet-max: max-width 767px;
+$bp-desktop: 992px;
+$bp-lg-desktop: 1200px;
+$bp-sm-desktop: 768px 992px;
+
+$body-color: #000;
+
+$lightgrey: #eaeaea;
+$brand-mid: #f280d6;
+$brand-dark: shade($brand-mid, 25%);
+$brand-light: tint($brand-mid, 50%);
+
+$background-page: $lightgrey;
+$background-content: #fff;
+
+$tab-current: #fff;
+$tab-hover: $lightgrey;
+$tab-default: transparent;
+
+// Client-specific settings.

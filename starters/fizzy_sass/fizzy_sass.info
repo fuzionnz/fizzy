@@ -1,0 +1,33 @@
+name = Fizzy SASS Starter
+description = A Fizzy subtheme using SASS
+core = 7.x
+base theme = fizzy
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[navigation]     = 'Navigation'
+regions[header]         = 'Top Bar'
+regions[highlighted]    = 'Highlighted'
+regions[help]           = 'Help'
+regions[content]        = 'Content'
+regions[sidebar_first]  = 'Primary'
+regions[sidebar_second] = 'Secondary'
+regions[footer_first]   = 'Footer 1'
+regions[footer_second]  = 'Footer 2'
+regions[page_top]       = 'Page top'
+regions[page_bottom]    = 'Page bottom'
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Stylesheets
+;;;;;;;;;;;;;;;;;;;;;
+
+stylesheets[all][] = css/style.css
+
+settings[toggle_name] = 0
+settings[toggle_slogan] = 0
+settings[toggle_main_menu] = 0
+settings[toggle_secondary_menu] = 0
