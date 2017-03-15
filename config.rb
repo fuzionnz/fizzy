@@ -27,17 +27,7 @@ javascripts_dir = "js"
 
 # environment = :development
 
-if environment == :production
-  sourcemap = false
-  output_style = :expanded
-  line_comments = false
-  enable_sourcemaps = true
-  sass_options = {
-    :debug_info => false,
-    :enable_sourcemaps => false,
-    :sourcemap => false
-  }
-else
+if environment == :development
   sourcemap = true
   output_style = :expanded
   line_comments = true
@@ -46,5 +36,15 @@ else
     :debug_info => true,
     :enable_sourcemaps => true,
     :sourcemap => true
+  }
+else
+  sourcemap = false
+  output_style = :expanded
+  line_comments = false
+  enable_sourcemaps = true
+  sass_options = {
+    :debug_info => false,
+    :enable_sourcemaps => false,
+    :sourcemap => false
   }
 end

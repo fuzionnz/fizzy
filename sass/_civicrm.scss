@@ -6,3 +6,13 @@
     }
   }
 }
+
+#crm-container table.cividiscount td {
+  vertical-align: top;
+}
+
+#crm-container #crm-main-content-wrapper .label,
+#crm-container table.cividiscount td.label.nowrap {
+  white-space: initial;
+  padding-top: 12px;
+}
