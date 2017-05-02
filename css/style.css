@@ -7212,6 +7212,10 @@ aside div.region-sidebar-second section.block img {
   white-space: initial;
   padding-top: 12px;
 }
+#crm-container #crm-main-content-wrapper .label .crm-marker,
+#crm-container table.cividiscount td.label.nowrap .crm-marker {
+  margin-right: -12px;
+}
 
 footer.dev-footer {
   background-color: #999;

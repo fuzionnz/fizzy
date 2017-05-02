@@ -15,4 +15,8 @@
 #crm-container table.cividiscount td.label.nowrap {
   white-space: initial;
   padding-top: 12px;
+
+  .crm-marker {
+    margin-right: -12px;
+  }
 }
