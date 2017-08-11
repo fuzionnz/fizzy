@@ -5,4 +5,4 @@
  * template.php
  */
 
-include_once('theme/system/html.vars.php');
+include_once dirname(__FILE__) . 'templates/theme/system/html.vars.php';
