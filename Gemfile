@@ -15,7 +15,7 @@ gem 'breakpoint', '~>2.4.2'              # Manages CSS media queries.
 gem 'oily_png'                           # Faster Compass sprite generation.
 gem 'css_parser'                         # Helps `compass stats` output statistics.
 #CUSTOM ADDED
-gem 'autoprefixer-rails', '~>1.1.20140605'      # Autoprefixer for use with Compass
-gem 'bootstrap-sass'
+gem 'autoprefixer-rails'       # Autoprefixer for use with Compass
+gem 'bootstrap-sass', '>=3.4.1'     # Required to get security upgrade
 gem 'font-awesome-sass'
 # gem 'compass-sourcemaps'
